@@ -12,6 +12,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.idea
+cache
 env/
 build/
 develop-eggs/
